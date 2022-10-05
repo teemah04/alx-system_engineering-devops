@@ -1,1 +1,1 @@
-my first project
+echo 'This repository entails solution to shell basic task'
